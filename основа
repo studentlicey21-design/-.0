@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Мій сайт</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            text-align: center;
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Мій простий сайт</h1>
+</header>
+
+<main>
+    <h2>Ласкаво просимо!</h2>
+    <p>Це простий сайт для демонстрації основ HTML. Ви можете додавати більше сторінок, контенту і функцій!</p>
+</main>
+
+<footer>
+    <p>&copy; 2025 Мій сайт. Усі права захищені.</p>
+</footer>
+
+</body>
+</html>
