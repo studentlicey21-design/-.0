@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Книжковий Рай</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        main {
+            padding: 40px;
+            text-align: center;
+        }
+        footer {
+            text-align: center;
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        h2 {
+            font-size: 2em;
+            color: #333;
+        }
+        p {
+            font-size: 1.2em;
+            color: #555;
+        }
+        .intro-text {
+            margin-top: 20px;
+            font-size: 1.1em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Книжковий Рай</h1>
+</header>
+
+<main>
+    <h2>Ласкаво просимо на нашому сайті!</h2>
+    <p>Тут ви можете знайти рекомендації щодо того, яку книгу прочитати наступною. Вибір книжок на будь-який смак і для будь-якої ситуації!</p>
+    <p class="intro-text">Ми допоможемо вам обрати найкраще читання, незалежно від того, чи ви шукаєте щось легке для відпочинку, чи глибоке для роздумів.</p>
+</main>
+
+<footer>
+    <p>&copy; 2025 Книжковий Рай. Усі права захищені.</p>
+</footer>
+
+</body>
+</html>
